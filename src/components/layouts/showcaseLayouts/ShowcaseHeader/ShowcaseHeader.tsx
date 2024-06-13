@@ -24,7 +24,7 @@ const ShowcaseHeader: React.FC<IShowcaseHeaderProps> = () => {
         </Link>
 
         <a
-          href={'https://github.com/rizametovd/e-commerce-react-app'}
+          href={''}
           className={classes.link}
           target="_blank"
           rel="noreferrer"
